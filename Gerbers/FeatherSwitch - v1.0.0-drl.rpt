@@ -1,0 +1,24 @@
+Drill report for C:/Users/chelliot/Dropbox/RemoteDevelopment/KiCad/FeatherSwitch/FeatherSwitch - v1.0.0.kicad_pcb
+Created on 2017-11-03 12:40:29
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'FeatherSwitch - v1.0.0.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.90mm  0.035"  (3 holes)
+    T2  1.00mm  0.039"  (4 holes)
+
+    Total plated holes count 7
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T3  1.70mm  0.067"  (4 holes)
+
+    Total unplated holes count 4
